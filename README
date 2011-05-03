@@ -1,3 +1,6 @@
+README
+======
 
-	I G N I S
-	Lightweight and highly extendable PHP framework.
+What is Ignis?
+-----------------
+Ignis is a lightweight PHP framework inspired by CodeIgniter. Ignis focuses on the ability to manipulate the framework as much as you want, offering great flexibility. At the most extreme, Ignis can be used as a framework to create a framework. A framework within a framework. Ignception.
